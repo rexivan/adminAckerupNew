@@ -4,7 +4,7 @@ export default {
     name: 'singleSelectedWork',
     title: 'Single Selected Work',
     type: 'document',
-    hidden: 'true',
+    hidden: () => true,
     fields: [
       {
         name: 'title',

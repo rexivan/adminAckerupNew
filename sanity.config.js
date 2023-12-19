@@ -5,7 +5,7 @@ import {schemaTypes} from './schemas'
 
 export default defineConfig({
   name: 'default',
-  title: 'ackerupnew',
+  title: 'Admin: ackerup.com',
 
   projectId: 'zik8v5tb',
   dataset: 'production',
